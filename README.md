@@ -1,36 +1,36 @@
-## Hi there 
 # Hi, I'm Ramya Rajasekaran 👋
-### Creative Senior Product designer & Interactive builder
+### Creative Technologist & Interactive Frontend Engineer
 
 [![GitHub Followers](https://img.shields.io/github/followers/Ramya-Rajasekaran1?label=Follow&style=social)](https://github.com/Ramya-Rajasekaran1)
-[![Portfolio](https://img.shields.io/badge/Live-Portfolio-blue?style=flat&logo=safari)](https://ramyarajasekaran.netlify.app )
 
-I design and build dynamic web applications with an emphasis on **fluid animations, creative typography, 3D physics, and high-impact UX**.
-
----
-
-###  Tech Stack & Creative Toolkit
-
-- **Frontend & Frameworks used:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-- **Creative & Interaction:** Framer Motion, Canvas API, Physics simulations, Stop-motion web animation
-- **Design & Prototyping:** Figma, UI/UX Systems, Responsive Web Design
-- **Tooling & Deployment:** Vite, Git, GitHub Pages, Netlify
+I design and build playful web experiences focused on **creative physics, generative visuals, fluid motion, and tactile interactions**.
 
 ---
 
-###  Featured Creative Projects
+### 🕹️ Interactive Experiments & Creative Demos
 
-| Project | Description | Live Demo | Stack |
+| Project | What It Is | Live Demo | Stack |
 |---|---|:---:|---|
-| **[My-portfolio](https://github.com/Ramya-Rajasekaran1/My-portfolio)** | Personal portfolio showcasing selected interactive work & design systems. | [Live Site ↗](https://ramya-rajasekaran1.github.io/My-portfolio/) | Next.js, TypeScript, Tailwind |
-| **[Readingboy](https://github.com/Ramya-Rajasekaran1/Readingboy)** | Expressive, micro-interactive frontend study with smooth motion design. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/Readingboy/) | React, Framer Motion, Tailwind |
-| **[Weave Loom](https://github.com/Ramya-Rajasekaran1/weave-loom)** | Interactive typographic and physics playground. Type words and watch them interact! | [Live Demo ↗](https://ramya-rajasekaran1.github.io/weave-loom/) | Vanilla JS, Physics Engine, Audio |
-| **[Robot 3D Scroll](https://github.com/Ramya-Rajasekaran1/Robot-3D-Scroll)** | Interactive 3D robot exploration driven by scroll gestures and glassmorphism UI. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/Robot-3D-Scroll/) | TypeScript, Vite, CSS Motion |
-| **[To-Do & Habit Tracker](https://github.com/Ramya-Rajasekaran1/To-do-and-Habits)** | Clean, responsive habit and daily task tracker web application. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/To-do-and-Habits/) | HTML5, CSS3, JavaScript |
+| **[Weave Loom](https://github.com/Ramya-Rajasekaran1/weave-loom)** | Typographic physics playground. Keystrokes become dynamic tokens with audio synthesis. | [Play Demo ↗](https://ramya-rajasekaran1.github.io/weave-loom/) | Canvas, Physics Engine, Web Audio |
+| **[Readingboy](https://github.com/Ramya-Rajasekaran1/Readingboy)** | Delightful micro-interaction & fluid character motion design. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/Readingboy/) | React 19, Framer Motion, Tailwind |
+| **[Glass Flower](https://github.com/Ramya-Rajasekaran1/FlowerInteractive)** | Generative cosmic blooming flower with reactive canvas effects. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/FlowerInteractive/) | Vite, Canvas, Creative JS |
+| **[Robot 3D Scroll](https://github.com/Ramya-Rajasekaran1/Robot-3D-Scroll)** | Gesture & scroll-driven 3D robot interaction with glassmorphic UI. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/Robot-3D-Scroll/) | TypeScript, 3D Motion, Vite |
+| **[Interactive Art](https://github.com/Ramya-Rajasekaran1/Interactive-Art-god)** | Canvas artwork manipulation blended with video effects and motion. | [View Code ↗](https://github.com/Ramya-Rajasekaran1/Interactive-Art-god) | Vite, Canvas, Video Layering |
+| **[Capybara Stop Motion](https://github.com/Ramya-Rajasekaran1/Capybarastopmotion)** | Frame-by-frame stop-motion CSS animation study. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/Capybarastopmotion/) | CSS Animation, Motion Design |
+| **[Boba Tea](https://github.com/Ramya-Rajasekaran1/Bobatea)** | Playful interactive beverage micro-interaction. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/Bobatea/) | HTML5, CSS3, Media Sync |
+| **[To-Do & Habits](https://github.com/Ramya-Rajasekaran1/To-do-and-Habits)** | Clean, responsive habit and daily task tracker. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/To-do-and-Habits/) | JavaScript, LocalStorage, CSS3 |
+| **[Portfolio (Archive)](https://github.com/Ramya-Rajasekaran1/My-portfolio)** | Previous portfolio exploration & design system archive. | [Live Site ↗](https://ramya-rajasekaran1.github.io/My-portfolio/) | Next.js, TypeScript, Tailwind |
 
 ---
 
-###  Connect With Me
+### 🛠️ Tech Stack & Creative Toolkit
 
-- 🌐 **Portfolio:** [ramya-rajasekaran1.github.io/My-portfolio](https://ramyarajasekaran.netlify.app )
+- **Creative & Interaction:** Canvas API, Web Audio API, Framer Motion, 3D & CSS Animation, Physics Simulations
+- **Frontend Core:** React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Vite
+- **Design & Systems:** Figma, Interactive Prototyping, Visual Hierarchy
+
+---
+
+### 📬 Connect
+
 - 💻 **GitHub:** [@Ramya-Rajasekaran1](https://github.com/Ramya-Rajasekaran1)
