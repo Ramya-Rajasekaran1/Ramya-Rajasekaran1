@@ -3,7 +3,7 @@
 ### Creative Senior Product designer & Interactive builder
 
 [![GitHub Followers](https://img.shields.io/github/followers/Ramya-Rajasekaran1?label=Follow&style=social)](https://github.com/Ramya-Rajasekaran1)
-[![Portfolio](https://img.shields.io/badge/Live-Portfolio-blue?style=flat&logo=safari)](https://ramya-rajasekaran1.github.io/My-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Live-Portfolio-blue?style=flat&logo=safari)](https://ramyarajasekaran.netlify.app )
 
 I design and build dynamic web applications with an emphasis on **fluid animations, creative typography, 3D physics, and high-impact UX**.
 
@@ -32,5 +32,5 @@ I design and build dynamic web applications with an emphasis on **fluid animatio
 
 ###  Connect With Me
 
-- 🌐 **Portfolio:** [ramya-rajasekaran1.github.io/My-portfolio](https://ramya-rajasekaran1.github.io/My-portfolio/)
+- 🌐 **Portfolio:** [ramya-rajasekaran1.github.io/My-portfolio](https://ramyarajasekaran.netlify.app )
 - 💻 **GitHub:** [@Ramya-Rajasekaran1](https://github.com/Ramya-Rajasekaran1)
