@@ -2,6 +2,7 @@
 ### Senior product designer
 
 [![GitHub Followers](https://img.shields.io/github/followers/Ramya-Rajasekaran1?label=Follow&style=social)](https://github.com/Ramya-Rajasekaran1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ramyar06/)
 
 I design and build playful web experiences focused on **creative physics, generative visuals, fluid motion, and tactile interactions**.
 
@@ -21,7 +22,7 @@ I design and build playful web experiences focused on **creative physics, genera
 | **[Sculpture Atlas](https://github.com/Ramya-Rajasekaran1/Sculpture-Atlas)** | Curated interactive 3D sculpture and spatial art showcase. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/Sculpture-Atlas/) | React, 3D, TypeScript |
 | **[Particle Studio](https://github.com/Ramya-Rajasekaran1/Particle-studio)** | Generative particle simulator with customizable physics and visual export. | [View Code ↗](https://github.com/Ramya-Rajasekaran1/Particle-studio) | JavaScript, Canvas, Particle Physics |
 | **[To-Do & Habits](https://github.com/Ramya-Rajasekaran1/To-do-and-Habits)** | Clean, responsive habit and daily task tracker. | [Live Demo ↗](https://ramya-rajasekaran1.github.io/To-do-and-Habits/) | JavaScript, LocalStorage, CSS3 |
-| **[Portfolio (Archive)](https://github.com/Ramya-Rajasekaran1/My-portfolio)** | Previous portfolio exploration & design system archive. | [Live Site ↗](https://ramya-rajasekaran1.github.io/My-portfolio/) | Next.js, TypeScript, Tailwind |
+| **[Portfolio](https://github.com/Ramya-Rajasekaran1/My-portfolio)** | Interactive portfolio & design system showcase. | [Live Site ↗](https://ramyarajasekaran.netlify.app) | Next.js, TypeScript, Tailwind |
 
 👉 **[View all 15 public repositories ↗](https://github.com/Ramya-Rajasekaran1?tab=repositories)**
 
@@ -37,5 +38,6 @@ I design and build playful web experiences focused on **creative physics, genera
 
 ### 📬 Connect
 
+- 🌐 **Portfolio:** [ramyarajasekaran.netlify.app](https://ramyarajasekaran.netlify.app)
+- 💼 **LinkedIn:** [linkedin.com/in/ramyar06](https://www.linkedin.com/in/ramyar06/)
 - 💻 **GitHub:** [@Ramya-Rajasekaran1](https://github.com/Ramya-Rajasekaran1)
-- 🌐 **Portfolio:** [Ramya's Portfolio](https://ramya-rajasekaran1.github.io/My-portfolio/)
