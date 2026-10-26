@@ -1,5 +1,5 @@
 # Hi, I'm Ramya Rajasekaran 👋
-### Creative Technologist & Interactive Frontend Engineer
+### Senior product designer
 
 [![GitHub Followers](https://img.shields.io/github/followers/Ramya-Rajasekaran1?label=Follow&style=social)](https://github.com/Ramya-Rajasekaran1)
 
